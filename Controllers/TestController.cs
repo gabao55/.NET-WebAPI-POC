@@ -4,11 +4,11 @@ namespace Teste___Webapi.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class TestingController : ControllerBase
+public class TestController : ControllerBase
 {
-    private readonly ILogger<TestingController> _logger;
+    private readonly ILogger<TestController> _logger;
 
-    public TestingController(ILogger<TestingController> logger)
+    public TestController(ILogger<TestController> logger)
     {
         _logger = logger;
     }

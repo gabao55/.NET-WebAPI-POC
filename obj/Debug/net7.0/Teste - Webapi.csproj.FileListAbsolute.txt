@@ -31,3 +31,6 @@
 /home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.pdb
 /home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.genruntimeconfig.cache
 /home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/ref/Teste - Webapi.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
