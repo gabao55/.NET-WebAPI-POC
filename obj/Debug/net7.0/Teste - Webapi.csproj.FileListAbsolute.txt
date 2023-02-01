@@ -1,0 +1,33 @@
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/appsettings.Development.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/appsettings.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Teste - Webapi
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Teste - Webapi.deps.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Teste - Webapi.runtimeconfig.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Teste - Webapi.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Teste - Webapi.pdb
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.csproj.AssemblyReference.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.AssemblyInfoInputs.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.AssemblyInfo.cs
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.MvcApplicationPartsAssemblyInfo.cs
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.MvcApplicationPartsAssemblyInfo.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/staticwebassets/msbuild.Teste - Webapi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/staticwebassets/msbuild.build.Teste - Webapi.props
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Teste - Webapi.props
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Teste - Webapi.props
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/staticwebassets.pack.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/staticwebassets.build.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/staticwebassets.development.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/scopedcss/bundle/Teste - Webapi.styles.css
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.csproj.CopyComplete
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/refint/Teste - Webapi.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.pdb
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.genruntimeconfig.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/ref/Teste - Webapi.dll
