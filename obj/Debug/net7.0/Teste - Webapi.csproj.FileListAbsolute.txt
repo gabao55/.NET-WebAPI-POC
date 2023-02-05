@@ -34,3 +34,39 @@
 /home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.pdb
 /home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/Teste - Webapi.genruntimeconfig.cache
 /home/gabriel/Documents/Trainee - Credit Suisse 2022/Teste - Webapi/obj/Debug/net7.0/ref/Teste - Webapi.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\refint\Teste - Webapi.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.pdb
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\appsettings.json
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Teste - Webapi.exe
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Teste - Webapi.deps.json
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Teste - Webapi.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Teste - Webapi.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Teste - Webapi.pdb
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\staticwebassets\msbuild.Teste - Webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\staticwebassets\msbuild.build.Teste - Webapi.props
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Teste - Webapi.props
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Teste - Webapi.props
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\scopedcss\bundle\Teste - Webapi.styles.css
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\ref\Teste - Webapi.dll

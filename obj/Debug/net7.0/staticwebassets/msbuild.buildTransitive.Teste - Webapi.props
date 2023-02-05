@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/Teste - Webapi.props" />
+  <Import Project="..\buildMultiTargeting\Teste - Webapi.props" />
 </Project>
