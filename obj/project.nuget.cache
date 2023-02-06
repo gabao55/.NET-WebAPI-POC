@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "67muIKRe57fqcko5X47r7qBXoW77gJ+1zc3FKXYOADCsuzObRXGqW3+p2RYQKXICq8KtJVn4lXadYj4TS/I/0Q==",
+  "dgSpecHash": "szvOLEFSwnaDw7V9a0/BadPVTugFp4WG5hDNi5PiJ5cQUVSbIuFMgZCdTYY9e180CMU2eIg3J+WO3sZkJOVttg==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documents\\Computero\\Trainee - Credit Suisse 2022\\ASP.NET CORE .NET 6\\Teste - Webapi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",

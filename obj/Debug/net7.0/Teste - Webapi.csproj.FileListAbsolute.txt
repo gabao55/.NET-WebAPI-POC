@@ -70,3 +70,5 @@ C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET
 C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.csproj.CopyComplete
 C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\Teste - Webapi.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\obj\Debug\net7.0\ref\Teste - Webapi.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\gabri\OneDrive\Documents\Computero\Trainee - Credit Suisse 2022\ASP.NET CORE .NET 6\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
