@@ -32,6 +32,25 @@ public class ProductsController : ControllerBase
             products = products.Where(product => product.Price <= queryParameters.MaxPrice.Value);
         }
 
+        if (!string.IsNullOrEmpty(queryParameters.SearchTerm))
+        {
+            products = products.Where(product =>
+                product.Name.ToLower().Contains(queryParameters.SearchTerm.ToLower()) ||
+                product.Sku.ToLower().Contains(queryParameters.SearchTerm.ToLower()) ||
+                product.Description.ToLower().Contains(queryParameters.SearchTerm.ToLower())
+            );
+        }
+
+        if (!string.IsNullOrEmpty(queryParameters.Sku))
+        {
+            products = products.Where(product => product.Sku == queryParameters.Sku);
+        }
+
+        if (!string.IsNullOrEmpty(queryParameters.Name))
+        {
+            products = products.Where(product => product.Name.ToLower().Contains(queryParameters.Name.ToLower()));
+        }
+
         products = products
             .Skip(queryParameters.Size * (queryParameters.Page - 1))
             .Take(queryParameters.Size);
