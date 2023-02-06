@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\obj\\Debug",
-    "\\obj\\Debug\\net7.0"
+    "\\Controllers",
+    "\\Models"
   ],
+  "SelectedNode": "\\WeatherForecast.cs",
   "PreviewInSolutionExplorer": true
 }

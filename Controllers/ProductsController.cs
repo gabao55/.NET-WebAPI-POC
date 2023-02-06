@@ -18,9 +18,19 @@ public class ProductsController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Product>>> GetAllProducts([FromQuery] QueryParameters queryParameters)
+    public async Task<ActionResult<IEnumerable<Product>>> GetAllProducts([FromQuery] ProductQueryParameters queryParameters)
     {
         IQueryable<Product> products = _context.Products;
+
+        if (queryParameters.MinPrice != null)
+        {
+            products = products.Where(product => product.Price >= queryParameters.MinPrice.Value);
+        }
+
+        if (queryParameters.MaxPrice != null)
+        {
+            products = products.Where(product => product.Price <= queryParameters.MaxPrice.Value);
+        }
 
         products = products
             .Skip(queryParameters.Size * (queryParameters.Page - 1))
